@@ -1,2 +1,2 @@
-# dedogeek.github.io
+# Dedo Geek [blog]
 Apontando a tecnologia
