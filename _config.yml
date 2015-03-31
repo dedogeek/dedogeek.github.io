@@ -1,0 +1,20 @@
+# Site settings
+title: Dedo Geek
+email: helissonss@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Blog sobre desenvolvimento web e tecnologias.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://dedogeek.github.io" # the base hostname & protocol for your site
+twitter_username: dedogeek
+github_username:  dedogeek
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: /:title/
+
+# Links to include in footer navigation
+# For external links add external: true
+
+# Exclude my node related stuff
+exclude: ['package.json', 'src', 'node_modules']
